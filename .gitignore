@@ -1,0 +1,10 @@
+# MSKLC build output
+*.dll
+*.obj
+*.res
+*.exp
+*.lib
+*.msi
+setup.exe
+build/
+dist/
