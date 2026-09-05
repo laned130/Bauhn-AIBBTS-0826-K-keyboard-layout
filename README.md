@@ -35,11 +35,13 @@ Everything else follows the standard US/ANSI layout.
 
 ## Installation
 
-1. Download ./windows/bauhn826/ or see build instructions above.
+1. Download the latest release, or see build instructions above.
 2. Run setup.exe
-3. After installation, add **Bauhn AIBBTS-0826-K** under Windows language keyboard
+3. The installer is probably unsigned, so Windows may display an Unknown Publisher
+or SmartScreen warning.
+4. After installation, add **Bauhn AIBBTS-0826-K** under Windows language keyboard
 options and remove other layouts if accidental switching is a nuisance.
-4. **Logout, and back in, or reboot** Windows' language system is fairly broken!
+5. **Sign out and back in, or reboot** Windows' language system is fairly broken!
 
 ## Why a custom layout?
 
