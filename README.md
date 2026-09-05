@@ -33,11 +33,13 @@ Everything else follows the standard US/ANSI layout.
    `TESTING.md`.
 5. Select **Project → Build DLL and Setup Package**.
 
-The resulting setup package can be attached to a GitHub release. Keep the
-`.klc` source in the release as well so users can inspect and rebuild it.
+## Installation
 
-After installation, add **Bauhn AIBBTS-0826-K** under Windows language keyboard
+1. Download ./windows/bauhn826/ or see build instructions above.
+2. Run setup.exe
+3. After installation, add **Bauhn AIBBTS-0826-K** under Windows language keyboard
 options and remove other layouts if accidental switching is a nuisance.
+4. **Logout, and back in, or reboot** Windows' language system is fairly broken!
 
 ## Why a custom layout?
 
