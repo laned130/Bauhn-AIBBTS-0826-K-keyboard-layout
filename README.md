@@ -35,7 +35,7 @@ Everything else follows the standard US/ANSI layout.
 
 ## Installation
 
-1. Download the latest release, or see build instructions above.
+1. Download the latest [release](https://github.com/laned130/Bauhn-AIBBTS-0826-K-keyboard-layout/releases), or see build instructions above.
 2. Run setup.exe
 3. The installer is probably unsigned, so Windows may display an Unknown Publisher
 or SmartScreen warning.
