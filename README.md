@@ -39,8 +39,8 @@ Everything else follows the standard US/ANSI layout.
 2. Run setup.exe
 3. The installer is probably unsigned, so Windows may display an Unknown Publisher
 or SmartScreen warning.
-4. After installation, add **Bauhn AIBBTS-0826-K** under Windows language keyboard
-options and remove other layouts if accidental switching is a nuisance.
+4. After installation, add **Bauhn AIBBTS-0826-K** under your Windows language keyboard
+options and **remove other layouts**.
 5. **Sign out and back in, or reboot** Windows' language system is fairly broken!
 
 ## Why a custom layout?
