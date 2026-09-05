@@ -14,7 +14,7 @@ the first stable release.
 
 Open Notepad and verify that every result matches the legend on the pressed key.
 
-- [ ] Number row without modifiers: ``1234567890-=`
+- [ ] Number row without modifiers: <code>`1234567890-=</code>
 - [ ] Number row with Shift: `~!@£$%^&*()_+`
 - [ ] AltGr+3: `#`
 - [ ] AltGr+4: `€`
